@@ -1,0 +1,10 @@
+{
+  "name": "monoliba",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "ds",
+      "docs"
+    ]
+  }
+}
